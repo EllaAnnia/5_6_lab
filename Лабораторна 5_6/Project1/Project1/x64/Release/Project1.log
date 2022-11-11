@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+D:\Лабораторна 5_6\Project1\Project1\MyForm.h(446,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Лабораторна 5_6\Project1\Project1\MyForm.h(447,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Лабораторна 5_6\Project1\Project1\MyForm.h(448,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Лабораторна 5_6\Project1\Project1\MyForm.h(449,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> D:\Лабораторна 5_6\Project1\x64\Release\Project1.exe
